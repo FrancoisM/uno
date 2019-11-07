@@ -5,9 +5,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Windows.Foundation;
-using Android.Support.V4.View;
 using Windows.UI.Xaml.Media;
 using Android.Views;
+using AndroidX.Core.View;
 
 namespace Windows.UI.Xaml
 {
